@@ -1,0 +1,45 @@
+  .heading
+  {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-family: 'Merienda', cursive;
+  }
+  .heading_div
+  {
+    float: none;
+    padding: 10px;
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:10px 10px 10px palegreen;
+  }
+  .heading_div2
+  {
+    font-size: 20px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+.copy_right_footer{
+  position: fixed;
+  bottom:0;
+  background-color: gray;
+  width: 100%;
+  height:5%;
+  font-size:2px;
+  text-align: center;
+}
+
+.result_para_tag:hover{
+  background-color: palegreen;
+}
+.heading:hover{
+  color: aquamarine;
+}
+canvas{
+  margin-top: 10%;
+}
